@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Samarth! 👋</h1>
-
-<div align="center">
+<h1 align="center">
+  Hi there, I'm Samarth! 👋
+  <br>
   <a href="https://samarthbolkotgi.netlify.app">
-    <img src="https://img.shields.io/badge/View%20Live%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="View Live Portfolio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=2000&color=888888&center=true&vCenter=true&width=300&lines=✨+Click+to+view+my+live+portfolio;🚀+Explore+my+latest+projects" alt="Animated Portfolio Link" />
   </a>
-</div>
+</h1>
 
 <br>
 
