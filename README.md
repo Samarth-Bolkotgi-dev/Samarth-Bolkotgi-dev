@@ -1,5 +1,13 @@
 <h1 align="center">Hi there, I'm Samarth! 👋</h1>
 
+<div align="center">
+  <a href="https://samarthbolkotgi.netlify.app">
+    <img src="https://img.shields.io/badge/View%20Live%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="View Live Portfolio" />
+  </a>
+</div>
+
+<br>
+
 ### 👨‍💻 About Me
 
 I am an AI & Data Science student at MIT-WPU with a product-focused mindset and a passion for practical problem-solving. My technical interests span across Machine Learning, Computer Vision, and Web Technologies, blending models like YOLOv8 with robust architectures using Python and FastAPI. 
