@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Impact: EMS shipped in 4 days, 50+ concurrent voters, 86% model accuracy, 8.76 CGPA, 24-hour national hackathon">
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7C83FF"/><stop offset="1" stop-color="#38E1D0"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+  </pattern>
+</defs>
+<style>
+  .rise { opacity:0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+  @keyframes rise { from { opacity:0; transform:translateY(8px) } to { opacity:1; transform:translateY(0) } }
+</style>
+
+  <g class="rise" style="animation-delay:0.00s">
+    <rect x="1" y="15" width="228" height="150" rx="14" fill="#0D1018" stroke="#1C2130"/>
+    <rect x="23" y="15" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="23" y="44" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#4B5366" letter-spacing="1.5">01</text>
+    <text x="21" y="104" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="800" fill="#F4F5F8" letter-spacing="-1.5">4<tspan font-size="24" font-weight="700" fill="url(#accent)" dx="3">days</tspan></text>
+    <text x="23" y="140" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#8A93A6">to build &amp; ship EMS</text>
+  </g>
+  <g class="rise" style="animation-delay:0.12s">
+    <rect x="243" y="15" width="228" height="150" rx="14" fill="#0D1018" stroke="#1C2130"/>
+    <rect x="265" y="15" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="265" y="44" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#4B5366" letter-spacing="1.5">02</text>
+    <text x="263" y="104" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="800" fill="#F4F5F8" letter-spacing="-1.5">50+<tspan font-size="24" font-weight="700" fill="url(#accent)" dx="3"></tspan></text>
+    <text x="265" y="140" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#8A93A6">concurrent voters, one live poll</text>
+  </g>
+  <g class="rise" style="animation-delay:0.24s">
+    <rect x="485" y="15" width="228" height="150" rx="14" fill="#0D1018" stroke="#1C2130"/>
+    <rect x="507" y="15" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="507" y="44" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#4B5366" letter-spacing="1.5">03</text>
+    <text x="505" y="104" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="800" fill="#F4F5F8" letter-spacing="-1.5">86<tspan font-size="24" font-weight="700" fill="url(#accent)" dx="3">%</tspan></text>
+    <text x="507" y="140" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#8A93A6">YOLOv8 detection accuracy</text>
+  </g>
+  <g class="rise" style="animation-delay:0.36s">
+    <rect x="727" y="15" width="228" height="150" rx="14" fill="#0D1018" stroke="#1C2130"/>
+    <rect x="749" y="15" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="749" y="44" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#4B5366" letter-spacing="1.5">04</text>
+    <text x="747" y="104" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="800" fill="#F4F5F8" letter-spacing="-1.5">8.76<tspan font-size="24" font-weight="700" fill="url(#accent)" dx="3"></tspan></text>
+    <text x="749" y="140" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#8A93A6">CGPA through semester 5</text>
+  </g>
+  <g class="rise" style="animation-delay:0.48s">
+    <rect x="969" y="15" width="228" height="150" rx="14" fill="#0D1018" stroke="#1C2130"/>
+    <rect x="991" y="15" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="991" y="44" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#4B5366" letter-spacing="1.5">05</text>
+    <text x="989" y="104" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="800" fill="#F4F5F8" letter-spacing="-1.5">24<tspan font-size="24" font-weight="700" fill="url(#accent)" dx="3">h</tspan></text>
+    <text x="991" y="140" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#8A93A6">national hackathon co-run</text>
+  </g>
+</svg>

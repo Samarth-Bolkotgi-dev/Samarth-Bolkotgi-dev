@@ -1,150 +1,156 @@
-<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:00C7B7&height=200&section=header&text=Samarth%20Bolkotgi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20MIT-WPU%20%E2%80%A2%20Builder%20of%20things%20that%20actually%20ship&descAlignY=58&descSize=16" alt="header"/>
-</p>
+<!--
+  Design system
+  ─────────────
+  Canvas  #07080D · Card #0D1018 · Line #1C2130
+  Accent  #7C83FF → #38E1D0 (indigo → cyan)
+  Type    Inter (display) · JetBrains Mono (labels)
+  All visuals live in ./assets as hand-built SVGs, so nothing depends on third-party render services.
+-->
+
+<a href="https://samarthbolkotgi.netlify.app">
+  <img src="./assets/hero.svg" width="100%" alt="Samarth Bolkotgi — AI & Data Science Engineer · Product Builder"/>
+</a>
 
 <p align="center">
-  <a href="https://samarthbolkotgi.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end+%F0%9F%9A%80;YOLOv8+%E2%80%A2+RAG+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Polygon;Shipped+an+election+system+in+4+days+%F0%9F%97%B3%EF%B8%8F;Turning+messy+data+into+working+products;Future+Technical+Program+Manager+%F0%9F%93%8B" alt="Typing SVG" />
-  </a>
+  <a href="https://samarthbolkotgi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-07080D?style=for-the-badge&logo=netlify&logoColor=7C83FF" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/samarth-bolkotgi-a13b89344"><img src="https://img.shields.io/badge/LinkedIn-07080D?style=for-the-badge&logo=linkedin&logoColor=7C83FF" alt="LinkedIn"/></a>
+  <a href="mailto:samarthbolkotgi@gmail.com"><img src="https://img.shields.io/badge/Email-07080D?style=for-the-badge&logo=gmail&logoColor=7C83FF" alt="Email"/></a>
+  <a href="https://github.com/Samarth-Bolkotgi-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-07080D?style=for-the-badge&logo=github&logoColor=7C83FF" alt="Repositories"/></a>
 </p>
 
-<p align="center">
-  <a href="https://samarthbolkotgi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
-  <a href="https://www.linkedin.com/in/samarth-bolkotgi-a13b89344"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samarthbolkotgi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## `$ whoami`
-
-```python
-class Samarth:
-    def __init__(self):
-        self.role       = "Integrated B.Tech CSE (AI & Data Science) @ MIT-WPU"
-        self.location   = "Pune, India 🇮🇳"
-        self.cgpa       = 8.76
-        self.mindset    = "product-first — if nobody can use it, it isn't done"
-        self.builds     = ["CV models", "RAG chatbots", "full-stack platforms", "blockchain systems"]
-        self.currently  = ["training YOLOv8 to spot solar panels in e-waste ♻️",
-                           "running events @ Ignisia AI Club"]
-        self.heading_to = "Technical Program Management 🎯"
-
-    def fun_fact(self):
-        return "Built a club election system in 4 days. 50+ people voted at once. Nothing broke. 😎"
-
-me = Samarth()
-```
-
----
-
-## 🛠️ `$ ls ~/toolbox`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,js,html,css&perline=8" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,fastapi,mongodb,postgres&perline=8" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,aws,githubactions,git,vercel&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat-square&logo=polygon&logoColor=white" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-</p>
-
----
-
-## 🚀 `$ ls ~/projects --best`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗳️ EMS — Election Management System
-Built in **4 days** for Ignisia AI Club. Uses a **Modified Borda Count** so ranked votes stay fair. First real run: **50+ voters, same window, zero drama.**
-
-`Next.js` `React 19` `TypeScript` `MongoDB` `NextAuth` `Zod`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 BluCarbon — Blue Carbon Registry & MRV
-Blockchain registry for mangrove carbon credits. Satellite + UAV imagery goes in, **verifiable credits on Polygon** come out, with data pinned to IPFS.
-
-`Polygon` `IPFS` `React` `FastAPI` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 MediQ — AI Health Companion
-Multilingual health platform with a **RAG diagnostic chatbot** and **DenseNet-121 image screening** served through ONNX Runtime, plus a patient–doctor portal.
-
-`FastAPI` `React 18` `Pinecone` `ONNX` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ SWIS — Solar Waste Identification *(in progress)*
-ML pipeline for a hardware device that finds recyclable solar panels in e-waste. Custom YOLOv8 model on merged Kaggle + UCI data — **86% and climbing.**
-
-`Python` `YOLOv8` `Computer Vision`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🤖 + one from my internship</b></summary>
 <br/>
 
-**Chat-Based AI Assistant for System Configuration** — *Prorigo Software, Jun–Jul 2025*
-Type what you want in plain English → get back a **validated JSON config** for a real enterprise product. Covers attribute creation, validation and automation logic.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-about-light.svg"/>
+  <img src="./assets/h-about.svg" width="100%" alt="01 — About"/>
+</picture>
 
-`Python` `NLP` `JSON`
-</details>
+I'm an Integrated B.Tech CSE (AI & Data Science) student at **MIT World Peace University, Pune** — and I care about the whole product, not just the model.
 
----
+I train computer-vision models, build RAG assistants, and wrap them in full-stack platforms people actually use. Running teams and national-level events taught me the other half: scoping, coordinating and shipping on a deadline. That combination is why I'm heading toward **Technical Program Management**.
 
-## 📜 `$ git log --oneline --career`
+<table>
+  <tr>
+    <td width="25%" valign="top"><sub><code>NOW</code></sub><br/><b>Training YOLOv8</b><br/><sub>to find recyclable solar panels in e-waste</sub></td>
+    <td width="25%" valign="top"><sub><code>FOCUS</code></sub><br/><b>CV · RAG · Full-stack</b><br/><sub>models that ship inside real products</sub></td>
+    <td width="25%" valign="top"><sub><code>ALSO</code></sub><br/><b>Finance & Accounting</b><br/><sub>minor alongside the main degree</sub></td>
+    <td width="25%" valign="top"><sub><code>OPEN TO</code></sub><br/><b>Internships</b><br/><sub>collaborations and hackathon teams</sub></td>
+  </tr>
+</table>
 
-```diff
-+ Apr 2026 → Oct 2026   Head of Events & Operations    @ Ignisia AI Club
-                        ran the department, shipped EMS on the side
-+ Mar 2026 → Apr 2026   Head of Logistics & Marketing  @ Ignisia AI Club
-                        marketing + logistics for a 24-hr national hackathon (ignisia.tech)
-+ Jun 2025 → Jul 2025   AI Intern                      @ Prorigo Software Pvt. Ltd.
-                        natural language → validated JSON configs
-```
+<br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-impact-light.svg"/>
+  <img src="./assets/h-impact.svg" width="100%" alt="02 — Impact"/>
+</picture>
 
-## 🧭 `$ cat roadmap.md`
+<img src="./assets/impact.svg" width="100%" alt="EMS shipped in 4 days · 50+ concurrent voters · 86% YOLOv8 accuracy · 8.76 CGPA · 24-hour national hackathon"/>
 
-- [x] Ship an ML model that solves a real problem
-- [x] Build something people actually used under load
-- [x] Run a national-level hackathon without losing my mind
-- [ ] Push SWIS past 90% 📈
-- [ ] Become a Technical Program Manager
-- [ ] MBA 🎓
+<br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-projects-light.svg"/>
+  <img src="./assets/h-projects.svg" width="100%" alt="03 — Selected Work"/>
+</picture>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>01 · CLUB PLATFORM</code></sub>
+      <h3>EMS — Election Management System</h3>
+      <p>Election platform built and deployed in <b>4 days</b>, using a Modified Borda Count to keep ranked-choice results fair. Ran a live election with <b>50+ concurrent voters</b>.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NextAuth.js-0F172A?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>02 · BLOCKCHAIN · MRV</code></sub>
+      <h3>BluCarbon — Blue Carbon Registry</h3>
+      <p>Registry and MRV platform for mangrove carbon credits, combining <b>Polygon</b>, <b>IPFS</b> and satellite/UAV imagery for verifiable credits and transparent monitoring.</p>
+      <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat-square&logo=polygon&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>03 · CAPSTONE · HEALTH-AI</code></sub>
+      <h3>MediQ — AI Health Companion</h3>
+      <p>Multilingual health platform with a <b>RAG diagnostic chatbot</b> and <b>DenseNet-121</b> image screening served via ONNX Runtime, inside a patient–doctor portal.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Pinecone-0F172A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>04 · COMPUTER VISION · IN PROGRESS</code></sub>
+      <h3>SWIS — Solar Waste Identification</h3>
+      <p>ML pipeline for a hardware device that detects recyclable solar panels in e-waste. Custom <b>YOLOv8</b> model on a merged Kaggle + UCI dataset, currently at <b>86% accuracy</b>.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLOv8-0F172A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-experience-light.svg"/>
+  <img src="./assets/h-experience.svg" width="100%" alt="04 — Experience"/>
+</picture>
+
+<img src="./assets/experience.svg" width="100%" alt="AI Intern at Prorigo Software (Jun–Jul 2025) → Head of Logistics & Marketing, Ignisia AI Club (Mar–Apr 2026) → Head of Events & Operations, Ignisia AI Club (Apr–Oct 2026)"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.svg"/>
+  <img src="./assets/h-stack.svg" width="100%" alt="05 — Toolkit"/>
+</picture>
+
+<table>
+  <tr>
+    <td width="22%"><sub><code>LANGUAGES</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,html,css&perline=8" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td><sub><code>WEB & BACKEND</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,fastapi&perline=8" alt="Web and backend"/></td>
+  </tr>
+  <tr>
+    <td><sub><code>AI / ML</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&perline=8" alt="AI and ML"/></td>
+  </tr>
+  <tr>
+    <td><sub><code>DATA & CLOUD</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,githubactions,git&perline=8" alt="Data and cloud"/></td>
+  </tr>
+  <tr>
+    <td><sub><code>ALSO</code></sub></td>
+    <td><sub>YOLOv8 · RAG · Pinecone · ONNX Runtime · Polygon · IPFS · NextAuth.js · Zod · Canva</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-contact-light.svg"/>
+  <img src="./assets/h-contact.svg" width="100%" alt="06 — Contact"/>
+</picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=7C5CFF&label=profile+visits" alt="profile views"/>
-</p>
-
-<p align="center">
-  <i>Always up for a collab, a hackathon, or a good debugging story. Say hi! 👋</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:7C5CFF&height=110&section=footer" />
+  <br/>
+  Got a product idea, a hackathon team or an internship? I'd love to hear about it.
+  <br/><br/>
+  <a href="mailto:samarthbolkotgi@gmail.com"><b>samarthbolkotgi@gmail.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/samarth-bolkotgi-a13b89344"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://samarthbolkotgi.netlify.app"><b>Portfolio</b></a>
+  <br/><br/>
+  <sub><code>designed &amp; built by samarth — pune, india</code></sub>
 </p>
