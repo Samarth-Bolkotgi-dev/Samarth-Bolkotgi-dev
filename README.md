@@ -20,10 +20,7 @@
 
 <br/>
 
-<a href="#-"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-about-light.svg"/>
-  <img src="./assets/h-about.svg" width="100%" alt="01 — About"/>
-</picture></a>
+<a href="#-"><img src="./assets/h-about.svg" width="100%" alt="01 — About"/></a>
 
 I'm an Integrated B.Tech CSE (AI & Data Science) student at **MIT World Peace University, Pune** — and I care about the whole product, not just the model.
 
@@ -40,19 +37,13 @@ I train computer-vision models, build RAG assistants, and wrap them in full-stac
 
 <br/>
 
-<a href="#-"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-impact-light.svg"/>
-  <img src="./assets/h-impact.svg" width="100%" alt="02 — Impact"/>
-</picture></a>
+<a href="#-"><img src="./assets/h-impact.svg" width="100%" alt="02 — Impact"/></a>
 
 <a href="#-"><img src="./assets/impact.svg" width="100%" alt="EMS shipped in 4 days · 50+ concurrent voters · 86% YOLOv8 accuracy · 8.76 CGPA · 24-hour national hackathon"/></a>
 
 <br/>
 
-<a href="#-"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-projects-light.svg"/>
-  <img src="./assets/h-projects.svg" width="100%" alt="03 — Selected Work"/>
-</picture></a>
+<a href="#-"><img src="./assets/h-projects.svg" width="100%" alt="03 — Selected Work"/></a>
 
 <table>
   <tr>
@@ -106,19 +97,13 @@ I train computer-vision models, build RAG assistants, and wrap them in full-stac
 
 <br/>
 
-<a href="#-"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-experience-light.svg"/>
-  <img src="./assets/h-experience.svg" width="100%" alt="04 — Experience"/>
-</picture></a>
+<a href="#-"><img src="./assets/h-experience.svg" width="100%" alt="04 — Experience"/></a>
 
 <a href="#-"><img src="./assets/experience.svg" width="100%" alt="AI Intern at Prorigo Software (Jun–Jul 2025) → Head of Logistics & Marketing, Ignisia AI Club (Mar–Apr 2026) → Head of Events & Operations, Ignisia AI Club (Apr–Oct 2026)"/></a>
 
 <br/>
 
-<a href="#-"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.svg"/>
-  <img src="./assets/h-stack.svg" width="100%" alt="05 — Toolkit"/>
-</picture></a>
+<a href="#-"><img src="./assets/h-stack.svg" width="100%" alt="05 — Toolkit"/></a>
 
 <table>
   <tr>
@@ -145,10 +130,7 @@ I train computer-vision models, build RAG assistants, and wrap them in full-stac
 
 <br/>
 
-<a href="#-"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-contact-light.svg"/>
-  <img src="./assets/h-contact.svg" width="100%" alt="06 — Contact"/>
-</picture></a>
+<a href="#-"><img src="./assets/h-contact.svg" width="100%" alt="06 — Contact"/></a>
 
 <p align="center">
   <br/>
